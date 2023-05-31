@@ -1,6 +1,7 @@
 
 ### Hide To See
 
+Kita diminta untuk menemukan pesan rahasia dalam gambar yang diberikan.
 - Download gambar yang diberikan
 - Masukkan gambar ke dalam web https://futureboy.us/stegano/decinput.html untuk diekstrak menggunakan teknik steganografi.
 <img src="https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/63dee906-f9f6-4733-903a-50f6b99b1808" height="400" />
