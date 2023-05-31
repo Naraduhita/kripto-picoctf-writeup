@@ -1,4 +1,4 @@
-### Flags
+## Flags
 
 Mendeskripsikan pesan dari gambar yang diberikan.
 - Download flag.png .Isi dari gambar tersebut berupa bendera yang membentuk sebuah kalimat.
