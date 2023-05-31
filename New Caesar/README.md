@@ -45,5 +45,5 @@ flag :
 
 `picoCTF{et_tu?_431db62c5618cd75f1d0b83832b67b46}`
 
-![Screenshot_1](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/bb2354fc-f473-403b-8e1a-7887fa864f1c)
+<img src="https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/bb2354fc-f473-403b-8e1a-7887fa864f1c" height="300"/>
 
