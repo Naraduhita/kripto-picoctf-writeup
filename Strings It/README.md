@@ -1,5 +1,5 @@
 
-### Strings It
+## Strings It
 
 Menemukan flag pada file strings yang diberikan.
 
