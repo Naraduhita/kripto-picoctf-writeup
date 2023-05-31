@@ -18,7 +18,7 @@ Kita perlu memahani teknik enkripsinya untuk dapat membuat algoritma dekripsinya
 `print(ALPHABET)`
 `ALPHABET[6]`
 `ALPHABET[1]`
-![Screenshot_1](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/bb2354fc-f473-403b-8e1a-7887fa864f1c)
+
 
 **Enkripsi**
 
@@ -44,5 +44,6 @@ Ketika program dijalankan maka muncul beberapa string hasil dekripsi. Dan setela
 flag : 
 
 `picoCTF{et_tu?_431db62c5618cd75f1d0b83832b67b46}`
-![WhatsApp Image 2023-05-31 at 10 40 22](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/cc109991-7f8f-489b-b112-7db1299a2371)
+
+![Screenshot_1](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/bb2354fc-f473-403b-8e1a-7887fa864f1c)
 
