@@ -4,6 +4,7 @@
 Pada soal CTF new caesar ini ditemukan jenis enkripsi baru. kita diminta untuk mendeskripsikan chipertext yang diberikan dengan algoritma yang sudah diberi.
 
 Hint 1: *Bagaimana cara kerja sandi jika alfabetnya bukan 26 huruf?*
+
 Hint 2: *Meskipun huruf-hurufnya terpisah, paradigma yang sama masih berlaku*
 
 Kita perlu memahani teknik enkripsinya untuk dapat membuat algoritma dekripsinya.
