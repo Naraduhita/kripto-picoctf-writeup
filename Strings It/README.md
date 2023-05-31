@@ -5,7 +5,7 @@ Menemukan flag pada file strings yang diberikan.
 
 - Download file yang diberikan `wget <link>`
 - Mengubah permission pada file strings agar dapat menjalankan file `chmod +x strings`
-- menjalankan `stirngs -a strings >> strings.txt`. Perintah "strings" digunakan untuk mengekstraksi teks yang tersembunyi dalam file biner.  `-a` memastikan bahwa semua karakter yang terbaca sebagai teks akan ditampilkan, termasuk karakter yang biasanya tidak dianggap sebagai karakter teks standar. Lalu hasil dari ekstraksi akan disimpan ke strings.txt
+- Menjalankan `stirngs -a strings >> strings.txt`. Perintah "strings" digunakan untuk mengekstraksi teks yang tersembunyi dalam file biner.  `-a` memastikan bahwa semua karakter yang terbaca sebagai teks akan ditampilkan, termasuk karakter yang biasanya tidak dianggap sebagai karakter teks standar. Lalu hasil dari ekstraksi akan disimpan ke strings.txt
 - Melakukan pencarian dengan kata kunci pico pada file strings.txt
 - Dari hasil pencarian didapatkan flag : `picoCTF{5tRIng5_1T_827aee91}`
 
