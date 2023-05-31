@@ -18,7 +18,7 @@ Kita perlu memahani teknik enkripsinya untuk dapat membuat algoritma dekripsinya
 `print(ALPHABET)`
 `ALPHABET[6]`
 `ALPHABET[1]`
-![WhatsApp Image 2023-05-31 at 10 38 58](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/38745038-93dd-464e-9357-49c8eaad0151)
+![Screenshot_1](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/bb2354fc-f473-403b-8e1a-7887fa864f1c)
 
 **Enkripsi**
 
