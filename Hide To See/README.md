@@ -1,5 +1,5 @@
 
-### Hide To See
+## Hide To See
 
 Kita diminta untuk menemukan pesan rahasia dalam gambar yang diberikan.
 - Download gambar yang diberikan
