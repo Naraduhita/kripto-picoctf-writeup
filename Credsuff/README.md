@@ -1,5 +1,6 @@
 ### Credsuff
 
+Pada soal ini kita diminta untuk menemukan kata sandi dari pengguna cultiris dan mendekripsinya
 - Membuka file username dan mencari kata `culturis`
 - Lalu mencari password dari file password pada urutan yang sama. - Didapatkan password dari culturis adalah`cvpbPGS{P7e1S_54I35_71Z3}`
 - Lalu karena kata kunci picoCTF{} diawali dengan P. maka menggeser sebanyak 13 huruf (https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)) 
