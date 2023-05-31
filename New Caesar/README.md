@@ -18,7 +18,7 @@ Kita perlu memahani teknik enkripsinya untuk dapat membuat algoritma dekripsinya
 `print(ALPHABET)`
 `ALPHABET[6]`
 `ALPHABET[1]`
-![Screenshot_2](https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/a5449cab-f2a8-468b-bd0d-088346d79a8e)
+<img src="https://github.com/Naraduhita/kripto-picoctf-writeup/assets/102397053/a5449cab-f2a8-468b-bd0d-088346d79a8e" height="300"/>
 
 **Enkripsi**
 
