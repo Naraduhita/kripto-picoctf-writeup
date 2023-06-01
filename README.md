@@ -1,6 +1,7 @@
 # kripto-picoctf-writeup
 
 Nama Kelompok : 
+
 Fina Keiza Arismana   5027211028
 
 Della Setyowati       5027211044
