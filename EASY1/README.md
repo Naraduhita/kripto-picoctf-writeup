@@ -1,7 +1,9 @@
 ## EASY 1
 
 Analisis soal : 
-Pada easy1 ini kita telah diberikan key, flag, dan diperintahkan untuk encrypted UFJKXQZQUNB dengan kunci SOLVECRYPTO. Selain itu kita diberikan 2 hint yang hint pertama berisi bentuk flagnya dan hint kedua berisikan HURUF BESAR semua. 
+Pada easy1 ini kita telah diberikan key, flag, dan diperintahkan untuk encrypted UFJKXQZQUNB dengan kunci SOLVECRYPTO. Selain itu kita diberikan 2 hint
+hint pertama : berisi bentuk flagnya 
+hint kedua : berisikan HURUF BESAR semua. 
 
 Penyelesaian : 
 Pada soal easy1 kita bisa langsung melakukan encrypted UFJKXQZQUNB dengan kunci SOLVECRYPTO pada web https://www.dcode.fr/vernam-cipher maka akan di dapatkan flags seperti di bawah ini 
