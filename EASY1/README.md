@@ -10,4 +10,4 @@ Pada soal easy1 kita bisa langsung melakukan encrypted UFJKXQZQUNB dengan kunci 
 
 <img width="764" alt="easy1" src="https://github.com/Delsea12/BelajarGit-Github/assets/96894117/cd99d717-1a45-4030-addf-4b96c9738c81">
 
-picoCTF{CRYPTOISFUN}
+`picoCTF{CRYPTOISFUN}`
