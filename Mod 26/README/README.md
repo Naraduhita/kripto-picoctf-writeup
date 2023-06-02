@@ -6,5 +6,4 @@ Penyelesaian :
 Pada soal tersebut kita bisa melakukan ROT13 yaitu enkripsi yang menggeser setiap huruf dalam sebuah teks sebanyak 13 posisi ke kanan dalam abjad. Dan ini bisa dilakukan secara online pada web https://rot13.com/ maka akan di dapatkan Output seperti di bawah ini  
 
 <img src="https://github.com/Naraduhita/kripto-picoctf-writeup/assets/96894117/ad1c5eb9-f349-462a-ab71-584e72dd908b" height="735" />
-<img src="https://github.com/Delsea12/BelajarGit-Github/assets/96894117/cd99d717-1a45-4030-addf-4b96c9738c81" height="764" />
 
