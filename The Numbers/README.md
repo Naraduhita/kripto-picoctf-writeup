@@ -1,7 +1,7 @@
 ## The Numbers
 
 Analisis soal : 
-Pada soal the numbers terdapat satu hint yang berisi flag ```picoctf{}```, dan terdapat image yang berisi angka seperti dibawah yang harus didownload
+Pada soal the numbers terdapat satu hint yang berisi flag ```picoctf{}```, dan terdapat image yang berisi angka seperti dibawah yang harus didownload pada
 image.png
 <img src="https://github.com/Naraduhita/kripto-picoctf-writeup/assets/96894117/86230d1f-6270-4d13-9d20-1d19df918a6d" height="600" />
 
