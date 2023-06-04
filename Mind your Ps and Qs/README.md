@@ -30,6 +30,6 @@ print(long_to_bytes(m))
 ```
 
 Outputnya :
-<img src="https://cdn.discordapp.com/attachments/1025213238763327683/1114832530319868004/image.png" height="735" />
+<img src="https://cdn.discordapp.com/attachments/1025213238763327683/1114832530319868004/image.png" />
 
 Flag : picoCTF{sma11_N_n0_g0od_00264570}
